@@ -45,7 +45,7 @@ Whether it's building applications with security-first design or diving into pen
 - 🔐 **Secure Python Chat App** – RSA + AES-based encrypted messaging platform.
 - 🧠 **Fake News Detection using Sentiment Analysis** – Built using ML and NLP techniques.
 - 🧪 **SIH 2024** – Designed secure, universal network switches for legacy systems.
-- 🛡️ **VAPT on FunWithFlags VM** – Simulated real-world cyber threats and mitigated vulnerabilities.
+- 🛡️ **VAPT on TBBT:2 FunWithFlags VM** – Simulated real-world cyber threats and mitigated vulnerabilities.
 
 ---
 
